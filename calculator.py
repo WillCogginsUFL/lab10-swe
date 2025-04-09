@@ -6,6 +6,9 @@ One function per operation, in order.
 """
 # First example
 def add(a, b): 
-    pass
+    return a + b
+
+def subtract(a, b):
+    return b - a
 
 
